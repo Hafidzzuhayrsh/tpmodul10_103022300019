@@ -1,7 +1,15 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\tp10\\tpmod10_103022300019\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\tp10\\MahasiswaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C2BD61-530F-4D48-8F1C-3D7D281561F2}|tpmod10_103022300019\\tpmod10_103022300019.csproj|d:\\tp10\\tpmod10_103022300019\\tpmod10_103022300019\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C2BD61-530F-4D48-8F1C-3D7D281561F2}|tpmod10_103022300019\\tpmod10_103022300019.csproj|solutionrelative:tpmod10_103022300019\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +26,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MahasiswaController.cs",
+              "DocumentMoniker": "D:\\tp10\\tpmod10_103022300019\\tpmod10_103022300019\\Controllers\\MahasiswaController.cs",
+              "RelativeDocumentMoniker": "tpmod10_103022300019\\Controllers\\MahasiswaController.cs",
+              "ToolTip": "D:\\tp10\\tpmod10_103022300019\\tpmod10_103022300019\\Controllers\\MahasiswaController.cs",
+              "RelativeToolTip": "tpmod10_103022300019\\Controllers\\MahasiswaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:40:43.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MahasiswaController.cs",
+              "DocumentMoniker": "D:\\tp10\\MahasiswaController.cs",
+              "RelativeDocumentMoniker": "..\\MahasiswaController.cs",
+              "ToolTip": "D:\\tp10\\MahasiswaController.cs",
+              "RelativeToolTip": "..\\MahasiswaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:38:37.765Z",
+              "EditorCaption": ""
             }
           ]
         },
